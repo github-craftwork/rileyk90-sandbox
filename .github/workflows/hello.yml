@@ -7,4 +7,4 @@ jobs:
     steps:
     - name: hello-world
       run: |
-        echo "hello $GTIHUB_ACTOR"
+        echo "hello $GITHUB_ACTOR"
